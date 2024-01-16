@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=domywillygithub&label=Profile%20views&color=0e75b6&style=flat" alt="domywillygithub" /> </p>
 
-- 🌱 I’m currently learning **Masters of Science in Big Data Analytics**
+- 🌱 I’m currently working as  **Data Management Analyst at The Jane Goodall Institute Tanzania**
 
 - 👨‍💻 All of my projects are available at [https://domywillygithub.github.io/DominicMahamba.github.io/](https://domywillygithub.github.io/DominicMahamba.github.io/)
 
-- 💬 Ask me about **Big Data, Python, SQL,Tableau, Power BI**
+- 💬 Ask me about **Big Data, Python, SQL,Tableau, Power BI, MS Excel, Machine Learning, Data Science/Analytics, Survey123**
 
 - 📫 How to reach me **mailto:mahambadominic0@gmail.com**
 
